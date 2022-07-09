@@ -1,0 +1,5 @@
+string c_name
+uint32 c_num
+---
+string s_name
+uint32 s_num
